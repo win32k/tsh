@@ -1,4 +1,4 @@
-# TSH
+# TinyShell
 - Minimal shell created in rust for fun
 - < 100 lines of code
 
