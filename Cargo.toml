@@ -1,0 +1,11 @@
+[package]
+name = "tsh"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+execute = "0.2.9"
+configparser= "2.1.0"
+
+[build]
+out-dir = "out"
